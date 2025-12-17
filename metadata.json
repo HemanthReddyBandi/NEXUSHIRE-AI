@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NexusHire AI",
+  "description": "Next-generation AI-powered interview platform with audible animated robots and verified HR workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
