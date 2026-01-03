@@ -1,0 +1,16 @@
+.auth-card {
+  width: 320px;
+  margin: 80px auto;
+  padding: 20px;
+  background: #020617;
+  color: white;
+  border-radius: 10px;
+}
+
+.auth-card input,
+.auth-card select,
+.auth-card button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 8px;
+}
