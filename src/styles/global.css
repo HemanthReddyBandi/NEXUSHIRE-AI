@@ -135,4 +135,51 @@ video {
     opacity: 1;
     transform: translateY(0);
   }
+
 }
+.hr-home {
+  max-width: 900px;
+  margin: auto;
+}
+
+.hr-title {
+  font-size: 1.8rem;
+  margin-bottom: 5px;
+}
+
+.hr-subtitle {
+  color: #94a3b8;
+  margin-bottom: 20px;
+}
+
+.hr-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.hr-box {
+  background: #020617;
+  border: 1px solid #334155;
+  padding: 20px;
+  border-radius: 14px;
+}
+
+.hr-box h3 {
+  margin-bottom: 15px;
+}
+
+.code-join {
+  margin-top: 10px;
+}
+
+.code-join input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 8px;
+  background: #020617;
+  border: 1px solid #334155;
+  color: white;
+  border-radius: 8px;
+}
+
